@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env*.local
+# Icon PNGs are generated from public/icon.svg on postinstall (see scripts/generate-icons.mjs)
+public/icon-192.png
+public/icon-512.png
+public/icon-512-maskable.png
+public/apple-touch-icon.png
+public/favicon.png
+public/favicon-32.png
+*.tsbuildinfo
